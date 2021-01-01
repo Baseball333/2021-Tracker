@@ -9,3 +9,6 @@ In 2021 I have decided to read more literature, specifically scientific/artistic
 
 Third Commit:
 As with every literary composition I have read in the past year, I feel the need to include my inquiries in my progression of the work. In this instance, I have decided to highlight subjectively important details in the physical text(concurrently in a separate text).
+
+Fourth Commit:
+Remember when I said this repository functions mostly like a management system? Well that statement is partially true. As of late December I have decided to not include any code (or even automation) in this system and rely solely on my own engineering potential. I am sure I can devise an orderly, efficient process of recording each week's progress for 52 weeks without writing anything technical. As such, each file in this repository is the weekly report in regards to my progress. Finally, a separate repository will be created to measure my creative output(again with any sort of programming). Happy reading(I'll commit to the README in the future to explain any ambiguous technicalities.
