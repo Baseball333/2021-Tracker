@@ -12,3 +12,6 @@ As with every literary composition I have read in the past year, I feel the need
 
 Fourth Commit:
 Remember when I said this repository functions mostly like a management system? Well that statement is partially true. As of late December I have decided to not include any code (or even automation) in this system and rely solely on my own engineering potential. I am sure I can devise an orderly, efficient process of recording each week's progress for 52 weeks without writing anything technical. As such, each file in this repository is the weekly report in regards to my progress. Finally, a separate repository will be created to measure my creative output(again with any sort of programming). Happy reading(I'll commit to the README in the future to explain any ambiguous technicalities.
+
+Fifth Commit:
+A note on January 3, 2021 is that I have failed to read my forty pages. As a successive plan I will read twenty pages as I arise on the next day, twenty other pages at midday. The required forty pages will be written at 3:00 and 5:00 respectively. This will greatly aid in my progression of "the Copernican Revolution".
