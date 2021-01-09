@@ -15,3 +15,6 @@ Remember when I said this repository functions mostly like a management system? 
 
 Fifth Commit:
 A note on January 3, 2021 is that I have failed to read my forty pages. As a successive plan I will read twenty pages as I arise on the next day, twenty other pages at midday. The required forty pages will be written at 3:00 and 5:00 respectively. This will greatly aid in my progression of "the Copernican Revolution".
+
+Sixth Commit: Week 1
+This is my entry for the first week's revision of this initiative. The book went well and I was able to complete it on time. I am yet to complete the vocabulary required as well as the geometric diagrams required by "the Copernican Revolution"'s comprehension. I was also unable to complete the required page limit each day in respect to maintaining order. One of my improvements in the next week will be to complete the required page limit to not fall behind on any responsibility.
