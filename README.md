@@ -18,3 +18,6 @@ A note on January 3, 2021 is that I have failed to read my forty pages. As a suc
 
 Sixth Commit: Week 1
 This is my entry for the first week's revision of this initiative. The book went well and I was able to complete it on time. I am yet to complete the vocabulary required as well as the geometric diagrams required by "the Copernican Revolution"'s comprehension. I was also unable to complete the required page limit each day in respect to maintaining order. One of my improvements in the next week will be to complete the required page limit to not fall behind on any responsibility.
+
+Seventh Commit:
+An update; I have written a political manuscript and have begun to read Plato's "Republic". 
